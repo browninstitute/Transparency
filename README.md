@@ -1,1 +1,1 @@
-# [Transparency](https://github.com/browninstitute/Transparency/Wiki)
+# [Transparency](https://github.com/browninstitute/Transparency/wiki)
